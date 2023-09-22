@@ -1,0 +1,268 @@
+[[CoolProp]]
+arch = "aarch64"
+git-tree-sha1 = "b48fd179d478c133250bb14b381292af57f96b1e"
+os = "macos"
+
+    [[CoolProp.download]]
+    sha256 = "a8907f62a151d518eddb78846ca30078870c3b7fa862c898b6be81afe8514d9b"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.aarch64-apple-darwin.tar.gz"
+[[CoolProp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cb65968a4eeecc8497e1b9d316e9658117f9f24c"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "bbc4bd70f9e1a45456518a29ffe8800872d991d5372af151749481003e75d585"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[CoolProp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9633d4c25156783abf62aae629d8f74a1aea7dc1"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "97eb78b591d5e125680aad283c9fb6d0ccd96cfcd0bbb31314bc67174b1cd3f0"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[CoolProp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "37a02527775de8ff40a273645a80f22dc8ec05a5"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "07011f26b54859a54a8bbc55a60bbf41db39d099319acc85fbb0104cbb1ca066"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.aarch64-linux-musl-cxx03.tar.gz"
+[[CoolProp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "49b71ff67a419ec72de21a5990f9e902aa9442c1"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "cfd9b4a0341d3dd8bd76815ba90777b00e168872ce82238a89471e0bf3dd03b5"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.aarch64-linux-musl-cxx11.tar.gz"
+[[CoolProp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5856c3b4729c79a56b396a6f70edd3377ae3d25f"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "e5bfd33cda121a74e42a6e11269ffabf208e17d2fee9b5150accccadd226a26a"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[CoolProp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "73edc63b822aa7d36566071b5f1de82154d6491a"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "a32e59841787ff06c721e2b39b2b9bb40b56fc66aed2bc09c486147312167a91"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[CoolProp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "85b7a1993ceff9fd27f6af04eb758d72ea3b3066"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "5dd64408d63ba410c88b59eb1cb2bb22fa7868fdcbd731555da61947ed3fa034"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[CoolProp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bcc5e5c264c1c5cc75437ddd9705c8a59c7d434c"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "147dd4c0e299779c05674826e6e5bd99e64c76a5c70eef9093110e5372e3f617"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[CoolProp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f48bab428966de2f1dd0dba52bcacaf73eb61e2a"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "25804addac2b18401d4f6139a72e94e43cf009016a1cb781fe24438f64b0b807"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[CoolProp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e15faed3d5a7cb824b5452d32eae6c2946f1bdde"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "6525c5df29df0fdae2e7a9babf17eed3400b250c0684d03c41ed101bea83a8cf"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[CoolProp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3ffe0ef42f07cee58056905dd6c380ef74899d93"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "51dc232353eb2a0a7e343b7068e0eb11bc99cf0dc9776dc44493b58023886835"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[CoolProp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "20a7222daa53408ce351caeb9d3d2a122c1bf8d2"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "0a4d144347e12ee1e1f24e06825169acc297d8d53dd197ef4b00f55d7729e917"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[CoolProp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2a26a89194f21335e7c6844df16485f760b45814"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "5ff3f71c77fe842f9b86918c06979933ae904f049740c16e485a0daeafd010a8"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.i686-linux-gnu-cxx03.tar.gz"
+[[CoolProp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f915cbf05538b3efd0e85207a3fcd2b885cf561b"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "ea07edca6ae689aaa42b3224b25ea2f0b5e3be0f82e747b5bc8dee1c84bcbdd7"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.i686-linux-gnu-cxx11.tar.gz"
+[[CoolProp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5f1de8c4cb9449b51a8d904c470c194e2446bc0e"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "6d0116fabc1f11e5e37c82ec7347f708c5ab69dbeb5c1554da88facce134ea5a"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.i686-linux-musl-cxx03.tar.gz"
+[[CoolProp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4fc919cc6ac9829c39095d2c0f21d3bd996efc3b"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "180662b9f047fd03d3b1ef8eeacdf873845f2fadfbcaf6ac05d7044d5ee4ed51"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.i686-linux-musl-cxx11.tar.gz"
+[[CoolProp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8995c4f986891f3c30ebcb379bd1e24982589261"
+os = "windows"
+
+    [[CoolProp.download]]
+    sha256 = "20334077b72bee8b434eb1a9e9c1cbb0d3b6cd2964f60162718fc2f607feb525"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.i686-w64-mingw32-cxx03.tar.gz"
+[[CoolProp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "59fb91e5ded9c91e061eba1c524322c59d34766c"
+os = "windows"
+
+    [[CoolProp.download]]
+    sha256 = "7e395745d8e7920e24ccfc6ab4d859af0618e9a67e6e55b4ba870ab1b7108f21"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.i686-w64-mingw32-cxx11.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+git-tree-sha1 = "f6f524209e0bbde08241d8ce60a7f11bd083f196"
+os = "macos"
+
+    [[CoolProp.download]]
+    sha256 = "62d62b6833c48aadc2e862975858e6d2585432c5b72d4dc93e7e57b22b65707a"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.x86_64-apple-darwin.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2e541ff65c03ef4ce20c181a73903c66863fe1a8"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "6698a169aca34537ad2912c1f04f74ac4bfae79891ecee8cd0512e463c4f360c"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "11050fc33363c46ee5dacea4c5348b362d246845"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "30fd681a1595c4a4952f06de376698dd99fd4cfcec6c17b0d619363aa74ad6f1"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e6d3c6887cbe55df852e0e2afea53c93c74ea300"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "a97367a9af8a9efb319c246774faa125f1fb371c75036f3d0f30c011cd4b4f3b"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.x86_64-linux-musl-cxx03.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "34cb9b10b794206c081cf402b915e88275179700"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "c7624153c0086d33e6c033961738139afb18caa7250b4d7de1fc5e9263fa27a5"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.x86_64-linux-musl-cxx11.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+git-tree-sha1 = "5faec9de54854eed6e9eb640489043786a9dd636"
+os = "freebsd"
+
+    [[CoolProp.download]]
+    sha256 = "71f49aee2b2e4b00fdcfd4990d1a4e86213ab0ea8c8c7bc4d286c5b56e606414"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.x86_64-unknown-freebsd.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "309a5cf833df5f9d708f471be1be1c17ef6ec4cc"
+os = "windows"
+
+    [[CoolProp.download]]
+    sha256 = "e276917d4d73073520dc4aa06300c076b7d9ee8ef0a96706e518d8be2c4764da"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a3fb89cc22a4dd00adaef6f2adb08685b85fcc59"
+os = "windows"
+
+    [[CoolProp.download]]
+    sha256 = "30c9e446327a66f5ef9f37825ea2ec0cf03383ac422f9263df898a6e8c10459d"
+    url = "https://github.com/CarbonAmerica/CoolProp_jll/releases/download/CoolProp-v6.5.0+1/CoolProp.v6.5.0.x86_64-w64-mingw32-cxx11.tar.gz"
